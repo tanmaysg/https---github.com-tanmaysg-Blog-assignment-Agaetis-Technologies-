@@ -1,0 +1,57 @@
+*{
+    margin-left:5%;
+    margin-right: 5%;
+    text-align: center;
+    
+}
+
+
+
+#sub{
+    display: inline-block;
+    color:rgb(78, 78, 78);
+    font-size: 1vw;
+}
+
+#maintitle{
+    display: inline-block;
+    font-size: 2.5vw;
+    font-weight: bold;
+    padding-left: 10%;
+    padding-right: 15%;
+}
+
+#signup{
+    color:rgb(78, 78, 78);
+    background-color: white;
+    text-decoration: none;
+    border:rgb(120, 120, 120) solid;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block;
+    padding: 4px 5px;
+    cursor: pointer;
+    font-size: 1vw;
+}
+
+#signup:hover{
+    background-color:rgb(220, 220, 220);
+}
+
+hr{
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+#form{
+    border: 1px solid black;
+    height: 400px;
+    width:350px;
+}
+
+#content{
+    width: 220px;
+    height:120px
+}
+
+
