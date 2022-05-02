@@ -1,0 +1,4 @@
+Open Form.html first to redirect to Blog.html webpage.
+All the Form fields has validations.
+I was not able to display the information from the form to the main Blog webpage.
+Blog.html is made responsive to adjust according to the screen size
